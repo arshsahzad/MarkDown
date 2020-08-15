@@ -14,7 +14,7 @@ ___
 * Gastby - https://www.gatsbyjs.org/
 * Roundcube - https://roundcube.net/
 * Docusaurus - https://docusaurus.io/
-* Aterlogic Webmails - https://webmail.afterlogic.com/
+* Aterlogic Webmail - https://webmail.afterlogic.com/
 ___
 # IMAGE RESOURCES:
 * Free Stock Images - https://www.pexels.com
